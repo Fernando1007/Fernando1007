@@ -7,7 +7,7 @@
 - EC: Soltero
 - Fecha de nacimiento: 10/07/2003
 - Telefono:3015809823
--------------
+--------------
 # Resumen
 Me presento mi nombre es Fernando Iglesias Barraza, soy aprendiz del servicio nacional (sena), me encuentro en 1 trimestre del programa
 analisis y desarrollo de software en el Centro Indrustrial y De Aviación, tengo altas expectativas de este programa que es aprender todo lo necesario
